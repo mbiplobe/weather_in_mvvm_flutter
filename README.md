@@ -4,8 +4,9 @@
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and [MVVM] (https://medium.com/@ignatovich.dm/mvvm-architecture-in-react-a-beginners-guide-with-examples-bde116f1347c) and using API from [OpenWeatherMap](https://openweathermap.org/)</br></br>
 
 <p align="center">
-<img src="https://github.com/mbiplobe/weather_in_mvvm_flutter/screen1.png" width="20%"></img>
-<img src="https://github.com/mbiplobe/weather_in_mvvm_flutter/assets/images/screen2.png" width="20%"></img>
+<img width="585" alt="screen2" src="https://github.com/user-attachments/assets/4ee0db90-440d-49e8-8207-fd50461b580d" />
+<img width="585" alt="screen1" src="https://github.com/user-attachments/assets/436b48fe-b9bc-44b2-a4ea-4c207a91af8d" />
+
 </p>
 
 ## API Docs   
