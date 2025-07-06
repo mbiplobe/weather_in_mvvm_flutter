@@ -1,6 +1,6 @@
 # weather_in_mvvm_flutter
 
-A new Flutter project.
+Designed a real-time weather monitoring application using Flutter and OpenWeather API.
 
 ## Getting Started
 
