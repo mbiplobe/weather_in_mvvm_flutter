@@ -75,6 +75,7 @@ flutter:
     - assets/images/windy_24.png
     - assets/images/visibility_24.png
     - assets/images/humidity_24.png
+    - assets/images/screen1.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
