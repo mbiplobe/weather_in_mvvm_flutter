@@ -4,7 +4,7 @@
 A simple weather App created using [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and [MVVM] (https://medium.com/@ignatovich.dm/mvvm-architecture-in-react-a-beginners-guide-with-examples-bde116f1347c) and using API from [OpenWeatherMap](https://openweathermap.org/)</br></br>
 
 <p align="center">
-<img src="https://github.com/mbiplobe/weather_in_mvvm_flutter/assets/images/screen1.png" width="20%"></img>
+<img src="https://github.com/mbiplobe/weather_in_mvvm_flutter/screen1.png" width="20%"></img>
 <img src="https://github.com/mbiplobe/weather_in_mvvm_flutter/assets/images/screen2.png" width="20%"></img>
 </p>
 
